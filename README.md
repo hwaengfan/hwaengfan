@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am currently a second-year Computer Science student at Orange Coast College. I am planning to transfer to a 4-year university institution in 2023. I am interested in web development and dream of becoming a full-stack engineer.
 
-* 🖥️  See my portfolio [here](https://hwaengfan.github.io/personal-portfolio/)
+* 🖥️  See my portfolio [here](https://hoang-phan.herokuapp.com/)
 * ✉️  You can contact me at [21hoangphan@gmail.com](mailto:21hoangphan@gmail.com)
 
 ### Skills
