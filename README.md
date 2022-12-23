@@ -1,7 +1,7 @@
 Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hoang
 =============================================================================================================================
 
-I am a second-year Computer Science student at Orange Coast College. Currently, I am in my second year at Orange Coast College and have set my sights on transferring to a four-year university in 2023. My passion lies in web development, and I am eager to turn this passion into a career as a full-stack engineer. While I have mostly self-taught myself the skills I have in web development, I am always looking for opportunities to improve and grow as a developer. Thank you for considering my profile!
+I am a second-year Computer Science student at Orange Coast College. Currently, I am in my second year at Orange Coast College and have set my sights on transferring to a four-year university in 2023. My passion lies in web development, and I am eager to turn this passion into a career as a full-stack engineer. While I have mostly self-taught myself the skills I have in web development, I am always looking for opportunities to improve and grow as a developer. Thank you for visiting my github!
 
 * 🖥️  See my portfolio [here](https://hoangphan.up.railway.app/)
 * ✉️  You can contact me at [21hoangphan@gmail.com](mailto:21hoangphan@gmail.com)
