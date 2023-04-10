@@ -1,4 +1,4 @@
-Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hoang
+Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh Hoang
 =============================================================================================================================
 
 I am a Computer Science student currently in my second year at Orange Coast College. I am planning to transfer to a four-year university in Fall 2023 and make a career out of my passion for web development as a full-stack engineer. I have taught myself most of what I know about web development, but I am always on the lookout for new ways to enhance my skills and grow as a developer. Thank you for checking out my Github!
