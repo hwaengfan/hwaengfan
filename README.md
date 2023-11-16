@@ -3,7 +3,6 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 I am a Computer Science student planning to transfer to UC San Diego in Fall 2023. My interest lies in web development and I want to become a full-stack engineer. I have taught myself most of what I know about web development, but I am always on the lookout for new ways to enhance my skills and grow as a developer. Thank you for checking out my Github!
 
-* 🖥️  See my portfolio [here](https://hoangphan.onrender.com/)
 * ✉️  You can contact me at [21hoangphan@gmail.com](mailto:21hoangphan@gmail.com)
 
 ### Skills
